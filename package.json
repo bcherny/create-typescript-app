@@ -15,6 +15,7 @@
     "test": "ava"
   },
   "devDependencies": {
+    "@types/node": "^9.4.0",
     "ava": "^0.25.0",
     "concurrently": "^3.5.1",
     "shx": "^0.2.2",
