@@ -1,6 +1,6 @@
 {
   "name": "create-typescript-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Command line utility to create a TypeScript app",
   "bin": "dist/src/cli.js",
   "main": "dist/src/index.js",
