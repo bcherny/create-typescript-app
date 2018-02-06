@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { execSync } from 'child_process'
 import copy from 'copy-template-dir'
 import { basename, join } from 'path'
